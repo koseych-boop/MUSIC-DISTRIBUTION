@@ -1,0 +1,7 @@
+{
+  "name": "Sawt Distribution",
+  "description": "Morocco's Home for Independent Music - Production-ready Moroccan digital music distributor with DSP adapter architecture, DDEX delivery, and rights management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
